@@ -1,5 +1,3 @@
-# WECODE 기업협업
-
 ## 프로젝트 소개
 
 - 프로젝트 주제 : firebase와 getstream api, React JS를 활용한 실시간 채팅 웹 만들기
