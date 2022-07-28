@@ -26,6 +26,9 @@
 
 ![IMG_1711](https://user-images.githubusercontent.com/90507720/170426707-4eec9242-294a-4718-85e5-3bf8ebbbc18e.jpg)
 
+### Firebase Auth 구글 소셜로그인 구현 
+![](https://velog.velcdn.com/images/hoje15v/post/a44a1bd2-3e39-48e1-8839-24ad71fca803/image.gif)
+
 ### 연락처 검색
 
 ![연락처 검색](https://user-images.githubusercontent.com/90507720/170426731-1202a729-e95a-47c6-8801-91e60f2ac088.gif)
