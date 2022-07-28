@@ -13,7 +13,7 @@
 ## 사용 기술
 
 - NPM(8.5.0), node(16.14.2), eslint, prettier
-- React(17.0.2), React-router-dom(v6), react-redux(4.2.0), getstream, react-images-uploading
+- React(17.0.2), React-router-dom(v6), react-redux(4.2.0), getstream, firebase, react-images-uploading
 
 ## 회고
 
